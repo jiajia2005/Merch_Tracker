@@ -1,1 +1,7 @@
+# Ignore private configuration file
+config.js
 
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
